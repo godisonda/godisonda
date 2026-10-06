@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=godisonda&style=flat-square&color=00ff66" alt="Profile Views">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff66?style=flat-square&logo=cyberchef&logoColor=00ff66" alt="Status">
-  <img src="https://img.shields.io/badge/LOC-MOSCOW%20%2F%20-ff0055?style=flat-square&logo=map&logoColor=ff0055" alt="Location">
+  <img src="https://img.shields.io/badge/LOC-MOSCOWff0055?style=flat-square&logo=map&logoColor=ff0055" alt="Location">
 </p>
 
 ---
